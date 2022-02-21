@@ -8,7 +8,10 @@ public class Test1 {
 		int b=20;
 		int c;
 		c=a+b;
+		int d=b-a;
 		System.out.println("sum is---->"+c);
+		System.out.println("sub is---->"+d);
+		
 
 	}
 
